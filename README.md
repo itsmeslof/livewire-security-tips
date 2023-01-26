@@ -1,3 +1,5 @@
+This repo mostly serves as a reminder to myself the next time I work on a Livewire project and get clumsly :^)
+
 ***tl;dr:*** public properties on a Livewire component can be manipulated from the frontend, causing the component to re-render and potentially re-query access-restricted data using the updated property.
 
 - Note: this only applies to Livewire versions < Livewire 3 (not yet released). Livewire v3 will introduce locked properties:
