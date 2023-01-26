@@ -1,4 +1,4 @@
-This repo mostly serves as a reminder to myself the next time I work on a Livewire project and get clumsly :^)
+This repo mostly serves as a reminder to myself the next time I work on a Livewire project and get clumsy :^)
 
 ***tl;dr:*** public properties on a Livewire component can be manipulated from the frontend, causing the component to re-render and potentially re-query access-restricted data using the updated property.
 
